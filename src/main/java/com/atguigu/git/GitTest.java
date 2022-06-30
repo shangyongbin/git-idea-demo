@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git...");
         System.out.println("333333333333");
         System.out.println("github online commit");
+        System.out.println("gitee test");
     }
 }
